@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **spk.meelarp@gmail.com**
 
-- ⚡ Fun fact **I'm interested in Japanese Culture.**
+- ⚡ Fun fact **🇯🇵I'm interested in Japanese Culture 🇯🇵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
