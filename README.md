@@ -1,4 +1,4 @@
-![github-header-image (6)](https://user-images.githubusercontent.com/24251126/164882513-fe9d154f-0644-4404-b385-ee3790626ada.png)
+<div align="center">![github-header-image (6)](https://user-images.githubusercontent.com/24251126/164882513-fe9d154f-0644-4404-b385-ee3790626ada.png)</div>
 
 
 <h1 align="center">Hi 👋, I'm Korn 🧑🏻‍💻</h1>
