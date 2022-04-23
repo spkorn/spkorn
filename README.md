@@ -1,4 +1,6 @@
-<div align="center">![github-header-image (6)](https://user-images.githubusercontent.com/24251126/164882513-fe9d154f-0644-4404-b385-ee3790626ada.png)</div>
+<div class="github-header">
+  <img align="center" src"https://drive.google.com/file/d/1DghHPjbJP6jwjx4rYE4nYYulhLLr92-9/view?usp=sharing">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Korn 🧑🏻‍💻</h1>
@@ -8,7 +10,7 @@
 
 - 📫 How to reach me **spk.meelarp@gmail.com**
 
-- ⚡ Fun fact **I'm interest interested in Japanese Culture.**
+- ⚡ Fun fact **I'm interested in Japanese Culture.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
