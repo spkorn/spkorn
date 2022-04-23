@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Supakorn you can call me "Korn" 🧑🏻‍💻
 
-![github-header-image (1)](https://user-images.githubusercontent.com/24251126/164882407-2098a4ee-d21c-4ceb-b2e2-2b08688d5c04.png)
+![github-header-image (6)](https://user-images.githubusercontent.com/24251126/164882513-fe9d154f-0644-4404-b385-ee3790626ada.png)
+
 
 <!--
 **spkorn/spkorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
