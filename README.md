@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![github-header-image (1)](https://user-images.githubusercontent.com/24251126/164882407-2098a4ee-d21c-4ceb-b2e2-2b08688d5c04.png)
+
 <!--
 **spkorn/spkorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
