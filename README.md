@@ -6,9 +6,6 @@
 <h1 align="center">Hi 👋, I'm Korn 🧑🏻‍💻</h1>
 <h3 align="center">A passionate software developer from Thailand.</h3>
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217alicqzimvt4fzi6vtu22na&cover_image=true&theme=natemoo-re&bar_color_cover=truae&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=217alicqzimvt4fzi6vtu22na&redirect=true)
 
 - 🔭 I’m currently a software developer in training on [TechUp Thailand](https://www.techupth.com/)
 
@@ -29,3 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spkorn&" alt="spkorn" /></p>
 </div>
+<hr>
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217alicqzimvt4fzi6vtu22na&cover_image=true&theme=natemoo-re&bar_color_cover=truae&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=217alicqzimvt4fzi6vtu22na&redirect=true)
