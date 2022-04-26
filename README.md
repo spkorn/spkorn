@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Korn 🧑🏻‍💻</h1>
 <h3 align="center">A passionate software developer from Thailand.</h3>
 
-[![spotify-github-profile]([[https://spotify-github-profile.vercel.app/api/view.svg?uid=217alicqzimvt4fzi6vtu22na&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=217alicqzimvt4fzi6vtu22na&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)]]]
 
 - 🔭 I’m currently a software developer in training on [TechUp Thailand](https://www.techupth.com/)
 
