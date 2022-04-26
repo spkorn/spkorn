@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spkorn&" alt="spkorn" /></p>
 </div>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=217alicqzimvt4fzi6vtu22na&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=217alicqzimvt4fzi6vtu22na&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)]]
