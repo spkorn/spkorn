@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a software developer in training on [TechUp Thailand](https://www.techupth.com/)
 
-- 📫 How to reach me **spk.meelarp@gmail.com**
+- 📫 How to reach me **spk.meelarp@gmail.com** <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 - ⚡ Fun fact **🇯🇵 I'm interested in Japanese Culture 🇯🇵**
 
