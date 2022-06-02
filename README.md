@@ -17,6 +17,8 @@
 <a href="https://www.instagram.com/supa.korn/" target="blank"><img align="center"
 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 alt="https://www.instagram.com/supa.korn/" /></a>
+<a href="https://github.com/spkorn" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt"https://github.com/spkorn" /></a>
+<a href="https://www.facebook.com/robotkorn/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt"https://www.facebook.com/robotkorn/" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
