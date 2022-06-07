@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/supakorn-meelarp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/supakorn-meelarp" /></a>
+<a href="https://linkedin.com/in/supakorn-meelarp" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/supakorn-meelarp" /></a>
 <a href="https://www.instagram.com/supa.korn/" target="blank"><img align="center"
 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
 alt="https://www.instagram.com/supa.korn/" /></a>
