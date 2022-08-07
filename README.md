@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer from Thailand.</h3>
 
 
-- 🔭 I’m currently a software developer in training on [TechUp Thailand](https://www.techupth.com/)
+- 🔭 I’m currently a software developer on [Muze Innovation](https://www.muze.co.th/)
 - 📫 How to reach me **spk.meelarp@gmail.com**
 - ⚡ Fun fact **🇯🇵 I'm interested in Japanese Culture 🇯🇵**
 
