@@ -1,8 +1,3 @@
-<div class="github-header" align="center">
-  <img src="https://sv1.picz.in.th/images/2022/04/23/8vDJ8Z.png" alt="github-profile-header-image" border="0" />
-</div>
-
-
 <h1 align="center">Hi 👋, I'm Korn 🧑🏻‍💻</h1>
 <h3 align="center">A passionate software developer from Thailand.</h3>
 
