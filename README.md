@@ -34,11 +34,6 @@ alt="https://www.instagram.com/supa.korn/" /></a>
 </div>
 <hr>
 
-<div align="left">
-<span><img align="center" src="https://visitor-badge.glitch.me/badge?page_id=spkorn.visitor-badge&left_text=visitors" alt="visitors" /></span>
-<span><img align="center" src="https://svgshare.com/i/ZjP.svg" alt="macOS" /></span>
-</div>
-
 ### Spotify Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217alicqzimvt4fzi6vtu22na&cover_image=true&theme=natemoo-re&bar_color_cover=truae&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=217alicqzimvt4fzi6vtu22na&redirect=true)
